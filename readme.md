@@ -75,4 +75,3 @@ of grains within storage silos.
 <div style="padding: 10px" align="center">
   <img src="./__readme/system-diagram.png">
 </div>
-
